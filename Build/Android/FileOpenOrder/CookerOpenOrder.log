@@ -1,0 +1,1305 @@
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Main/MainController.uasset" 0
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Main/MainController.uexp" 1
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 2
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 3
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 4
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 5
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 6
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 7
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 8
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 9
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 10
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 11
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 12
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 13
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 14
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 15
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 16
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 17
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 18
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 19
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 20
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 21
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 22
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 23
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 24
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 25
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 26
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 27
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 28
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 29
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 30
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 31
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 32
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 33
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 34
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 35
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 36
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 37
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Male_N.uasset" 38
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Male_N.uexp" 39
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Male_N.ubulk" 40
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Male_Mask.uasset" 41
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Male_Mask.uexp" 42
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Male_Mask.ubulk" 43
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/M_Male_Body.uasset" 44
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/M_Male_Body.uexp" 45
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 46
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 47
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/SK_Mannequin.uasset" 48
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/SK_Mannequin.uexp" 49
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 50
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 51
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 52
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 53
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 54
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 55
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonWalk.uasset" 56
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonWalk.uexp" 57
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonIdle.uasset" 58
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonIdle.uexp" 59
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonRun.uasset" 60
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonRun.uexp" 61
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 62
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp" 63
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPerson_Jump.uasset" 64
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPerson_Jump.uexp" 65
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 66
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 67
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonJump_Start.uasset" 68
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonJump_Start.uexp" 69
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 70
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 71
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Characters/StatusAC.uasset" 72
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Characters/StatusAC.uexp" 73
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 74
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 75
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_MaterialSphere.uasset" 76
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_MaterialSphere.uexp" 77
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 78
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 79
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 80
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 81
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset" 82
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uexp" 83
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 84
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 85
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 86
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Gold_N.uasset" 87
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Gold_N.uexp" 88
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Gold_N.ubulk" 89
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_MacroVariation.uasset" 90
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_MacroVariation.uexp" 91
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 92
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 93
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 94
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uexp" 95
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.ubulk" 96
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Basic_Wall.uasset" 97
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Basic_Wall.uexp" 98
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Sphere.uasset" 99
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Sphere.uexp" 100
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 101
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 102
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_radial_ramp.uasset" 103
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_radial_ramp.uexp" 104
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/m_flare_01.uasset" 105
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/m_flare_01.uexp" 106
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Explosion_SubUV.uasset" 107
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Explosion_SubUV.uexp" 108
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Explosion_SubUV.ubulk" 109
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 110
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 111
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Burst_M.uasset" 112
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Burst_M.uexp" 113
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Burst_M.ubulk" 114
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Burst.uasset" 115
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Burst.uexp" 116
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Smoke_SubUV.uasset" 117
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Smoke_SubUV.uexp" 118
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Smoke_SubUV.ubulk" 119
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 120
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 121
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 122
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 123
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 124
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Explosion.uasset" 125
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Explosion.uexp" 126
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Explosion01.uasset" 127
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Explosion01.uexp" 128
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Explosion01.ubulk" 129
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Explosion02.uasset" 130
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Explosion02.uexp" 131
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Explosion02.ubulk" 132
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Explosion_Cue.uasset" 133
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Explosion_Cue.uexp" 134
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/AmmoBase.uasset" 135
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/AmmoBase.uexp" 136
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/AmmoAC.uasset" 137
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/AmmoAC.uexp" 138
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/WeaponBase.uasset" 139
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/WeaponBase.uexp" 140
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 141
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uexp" 142
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.ubulk" 143
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 144
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uexp" 145
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/M_FPGun.uasset" 146
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/M_FPGun.uexp" 147
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/SK_FPGun.uasset" 148
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/SK_FPGun.uexp" 149
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/Gun.uasset" 150
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Weapon/Gun.uexp" 151
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Lamp_M.uasset" 152
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Lamp_M.uexp" 153
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Lamp_M.ubulk" 154
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Lamp_N.uasset" 155
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Lamp_N.uexp" 156
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Lamp_N.ubulk" 157
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Lamp.uasset" 158
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Lamp.uexp" 159
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Lamp_Ceiling.uasset" 160
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Lamp_Ceiling.uexp" 161
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Interaction/Lamp.uasset" 162
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Interaction/Lamp.uexp" 163
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Characters/MainCharacter.uasset" 164
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Characters/MainCharacter.uexp" 165
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Main/MainGM.uasset" 166
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Main/MainGM.uexp" 167
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 168
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uexp" 169
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 170
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uexp" 171
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Female_N.uasset" 172
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Female_N.uexp" 173
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Female_N.ubulk" 174
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Female_Mask.uasset" 175
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Female_Mask.uexp" 176
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Textures/T_Female_Mask.ubulk" 177
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MI_Female_Body.uasset" 178
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Materials/MI_Female_Body.uexp" 179
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 180
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uexp" 181
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 182
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Character/Mesh/SK_Mannequin_Female.uexp" 183
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonJump_End.uasset" 184
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Mannequin/Animations/ThirdPersonJump_End.uexp" 185
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 186
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 187
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 188
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 189
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 190
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 191
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 192
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Door_M.uasset" 193
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Door_M.uexp" 194
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Door_M.ubulk" 195
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Door_N.uasset" 196
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Door_N.uexp" 197
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Door_N.ubulk" 198
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Door.uasset" 199
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Door.uexp" 200
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Glass.uasset" 201
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Glass.uexp" 202
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Door.uasset" 203
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Door.uexp" 204
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Chair_M.uasset" 205
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Chair_M.uexp" 206
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Chair_M.ubulk" 207
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Chair_N.uasset" 208
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Chair_N.uexp" 209
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Chair_N.ubulk" 210
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Chair.uasset" 211
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Chair.uexp" 212
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Couch.uasset" 213
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Couch.uexp" 214
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Shelf_N.uasset" 215
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Shelf_N.uexp" 216
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Shelf_N.ubulk" 217
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Shelf_M.uasset" 218
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Shelf_M.uexp" 219
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Shelf_M.ubulk" 220
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Shelf.uasset" 221
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Shelf.uexp" 222
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Shelf.uasset" 223
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Shelf.uexp" 224
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Basalt_D.uasset" 225
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Basalt_D.uexp" 226
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 227
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_RockMesh_M.uasset" 228
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_RockMesh_M.uexp" 229
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_RockMesh_M.ubulk" 230
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Detail_Rocky_N.uasset" 231
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Detail_Rocky_N.uexp" 232
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 233
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_RockMesh_N.uasset" 234
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_RockMesh_N.uexp" 235
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_RockMesh_N.ubulk" 236
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Rock.uasset" 237
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Rock.uexp" 238
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Rock.uasset" 239
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Rock.uexp" 240
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Basic_Floor.uasset" 241
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Basic_Floor.uexp" 242
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Stairs.uasset" 243
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Stairs.uexp" 244
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Bush_N.uasset" 245
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Bush_N.uexp" 246
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Bush_N.ubulk" 247
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Bush_D.uasset" 248
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Bush_D.uexp" 249
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Bush_D.ubulk" 250
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Bush.uasset" 251
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Bush.uexp" 252
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Bush.uasset" 253
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Bush.uexp" 254
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Wedge_A.uasset" 255
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Wedge_A.uexp" 256
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_WideCapsule.uasset" 257
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_WideCapsule.uexp" 258
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Tube.uasset" 259
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Tube.uexp" 260
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_TriPyramid.uasset" 261
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_TriPyramid.uexp" 262
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Trim.uasset" 263
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Trim.uexp" 264
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Plane.uasset" 265
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Plane.uexp" 266
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 267
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 268
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Pipe_90.uasset" 269
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Pipe_90.uexp" 270
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Pipe_180.uasset" 271
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Pipe_180.uexp" 272
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Pipe.uasset" 273
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Pipe.uexp" 274
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Cone.uasset" 275
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Cone.uexp" 276
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Wedge_B.uasset" 277
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Wedge_B.uexp" 278
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 279
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 280
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Trim_90_In.uasset" 281
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Trim_90_In.uexp" 282
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Torus.uasset" 283
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Torus.uexp" 284
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_Door_400x400.uasset" 285
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_Door_400x400.uexp" 286
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_400x400.uasset" 287
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_400x400.uexp" 288
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_500x500.uasset" 289
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_500x500.uexp" 290
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Pillar_50x500.uasset" 291
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Pillar_50x500.uexp" 292
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_400x300.uasset" 293
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_400x300.uexp" 294
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_Window_400x400.uasset" 295
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_Window_400x400.uexp" 296
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light02.uasset" 297
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light02.uexp" 298
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light02.ubulk" 299
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light02_Cue.uasset" 300
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light02_Cue.uexp" 301
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light01.uasset" 302
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light01.uexp" 303
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light01.ubulk" 304
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light01_Cue.uasset" 305
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Light01_Cue.uexp" 306
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 307
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 308
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 309
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 310
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 311
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 312
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 313
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 314
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 315
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 316
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 317
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 318
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 319
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 320
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 321
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 322
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 323
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 324
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 325
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 326
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 327
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 328
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 329
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 330
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 331
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 332
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 333
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 334
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 335
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 336
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 337
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 338
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 339
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 340
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 341
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 342
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 343
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 344
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 345
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 346
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 348
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 350
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 351
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 352
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 353
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 354
+"../../../Engine/Content/EngineResources/Black.uasset" 355
+"../../../Engine/Content/EngineResources/Black.uexp" 356
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 357
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 358
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 359
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 360
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 361
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 362
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 363
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 364
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 365
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 366
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 367
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 368
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 369
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 370
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 371
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 372
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 373
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 374
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 375
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 376
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 377
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 378
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 379
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 380
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 381
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 382
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 383
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 384
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 385
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 386
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 387
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 388
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 389
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 390
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 391
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 392
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 393
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 394
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 395
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 396
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 397
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 398
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 399
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 400
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 401
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 402
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 403
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 404
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 405
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 406
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 407
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 408
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 409
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 410
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 411
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 412
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 413
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 414
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 415
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 416
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 417
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 418
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 419
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 420
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 421
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 422
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 423
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 424
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 425
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 426
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 427
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 428
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 429
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 430
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 431
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 432
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 433
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 434
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 435
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 436
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 437
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 438
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 439
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 440
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 441
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 442
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial_VT.uasset" 443
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial_VT.uexp" 444
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 445
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 446
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 447
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 448
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 449
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 450
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 451
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 452
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 453
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 454
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 455
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 456
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 457
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 458
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 459
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 460
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 461
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 462
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 463
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 464
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 465
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 466
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 467
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 468
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 469
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 470
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 471
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 472
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 473
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 474
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 475
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 476
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 477
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 478
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 479
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 480
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 481
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 482
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 483
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 484
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 485
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 486
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 487
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 488
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 489
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 490
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 491
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 492
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 493
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 494
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 495
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 496
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 497
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 498
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 499
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 500
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 501
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 502
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 503
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 504
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 505
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 506
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 507
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 508
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 509
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 510
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 511
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 512
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 513
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 514
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 515
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 516
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 517
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 518
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 519
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 520
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 521
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 522
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 523
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 524
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 525
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 526
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 527
+"../../../Engine/Content/EditorResources/S_Note.uasset" 528
+"../../../Engine/Content/EditorResources/S_Note.uexp" 529
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 530
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 531
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 532
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 533
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 534
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 535
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 536
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 537
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 538
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 539
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 540
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 541
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 542
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 543
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 544
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 545
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 546
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 547
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 548
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 549
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 550
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 551
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 552
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 553
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 554
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 555
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 556
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 557
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 558
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 559
+"../../../Engine/Content/BasicShapes/Cone.uasset" 560
+"../../../Engine/Content/BasicShapes/Cone.uexp" 561
+"../../../Engine/Content/BasicShapes/Plane.uasset" 562
+"../../../Engine/Content/BasicShapes/Plane.uexp" 563
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 564
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 565
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 566
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 567
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 568
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 569
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 570
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 571
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 572
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 573
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 574
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 575
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 576
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 577
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 578
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 579
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 580
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 581
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 582
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 583
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 584
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 585
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 586
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 587
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 588
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 589
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 590
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 591
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 592
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 593
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 594
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 595
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 596
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 597
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 598
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 599
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 600
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 601
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 602
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 603
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 604
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 605
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 606
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 610
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 611
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 612
+"../../../Engine/Content/EngineSounds/Master.uasset" 613
+"../../../Engine/Content/EngineSounds/Master.uexp" 614
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 615
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 616
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 617
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 618
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 619
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 620
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 621
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 622
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 623
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 624
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 625
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 626
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 627
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 628
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 629
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 630
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 631
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 632
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 633
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 634
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 635
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 636
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 637
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 638
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 639
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 640
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 641
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 642
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 643
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 644
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 645
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 646
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 647
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 648
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 649
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 650
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 651
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 652
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 653
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 654
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 655
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 656
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 657
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 658
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 659
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 660
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 661
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 662
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 663
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 664
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 665
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 666
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 667
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 668
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 669
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 670
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 671
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 672
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 673
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 674
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 675
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 676
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 677
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 678
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 679
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 680
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 681
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 682
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 683
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 684
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 685
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 686
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 687
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 688
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 689
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 690
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 691
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 692
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 693
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 694
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 695
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 696
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 697
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 698
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 699
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 700
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 701
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 702
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 703
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 704
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 705
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 706
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 707
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 708
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 709
+"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 710
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 711
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 712
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 713
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 714
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 715
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 716
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 717
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 718
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 719
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 720
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 721
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 722
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 723
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 724
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 725
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 726
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 727
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 728
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 729
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 730
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 731
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 732
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 733
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 734
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 735
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 736
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 737
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 738
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 739
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 740
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Untitled_BuiltData.uasset" 741
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Untitled_BuiltData.uexp" 742
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Untitled_BuiltData.ubulk" 743
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 744
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 745
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 746
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 747
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 748
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 749
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 750
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 751
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 752
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 753
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Untitled.uexp" 754
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Untitled.umap" 755
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Walnut_D.uasset" 756
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Walnut_D.uexp" 757
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 758
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Walnut_N.uasset" 759
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Walnut_N.uexp" 760
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 761
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Walnut.uasset" 762
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Walnut.uexp" 763
+"../../../Engine/Content/BasicShapes/Cube.uasset" 764
+"../../../Engine/Content/BasicShapes/Cube.uexp" 765
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Untitled_BuiltData.uasset" 766
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Untitled_BuiltData.uexp" 767
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Untitled_BuiltData.ubulk" 768
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Cylinder.uasset" 769
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Cylinder.uexp" 770
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Interaction/Fan.uasset" 771
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Interaction/Fan.uexp" 772
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Untitled.uexp" 773
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/Untitled.umap" 774
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/DamageZone/VoidZone.uasset" 775
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/DamageZone/VoidZone.uexp" 776
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/NewMap_BuiltData.uasset" 777
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/NewMap_BuiltData.uexp" 778
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/NewMap_BuiltData.ubulk" 779
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/NewMap.uexp" 780
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/TatianaG/NewMap.umap" 781
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/RampMaterial.uasset" 782
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/RampMaterial.uexp" 783
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 784
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/RightArm_StaticMesh.uexp" 785
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 786
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/Ramp_StaticMesh.uexp" 787
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 788
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uexp" 789
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 790
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/LeftArm_StaticMesh.uexp" 791
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 792
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPerson/Meshes/Bump_StaticMesh.uexp" 793
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Geometry/Meshes/CubeMaterial.uasset" 794
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Geometry/Meshes/CubeMaterial.uexp" 795
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Geometry/Meshes/TemplateFloor.uasset" 796
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Geometry/Meshes/TemplateFloor.uexp" 797
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Geometry/Meshes/1M_Cube_Chamfer.uasset" 798
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Geometry/Meshes/1M_Cube_Chamfer.uexp" 799
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Geometry/Meshes/1M_Cube.uasset" 800
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/Geometry/Meshes/1M_Cube.uexp" 801
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 802
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uexp" 803
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ubulk" 804
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPersonBP/Maps/ThirdPersonExampleMap.uexp" 805
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 806
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 807
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 808
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_AssetPlatform.uasset" 809
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_AssetPlatform.uexp" 810
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/SM_AssetPlatform.uasset" 811
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/SM_AssetPlatform.uexp" 812
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 813
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 814
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 815
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 816
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 817
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 818
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 819
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 820
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 821
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 822
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 823
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 824
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 825
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 826
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 827
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 828
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 829
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 830
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 831
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 832
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 833
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 834
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 835
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 836
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 837
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 838
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 839
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 840
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 841
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uexp" 842
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 843
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 844
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 845
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uexp" 846
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/CheckerPattern.uasset" 847
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/CheckerPattern.uexp" 848
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 849
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 850
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/Skybox.uasset" 851
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/Skybox.uexp" 852
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 853
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 854
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 855
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 856
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 857
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 858
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/BP_LightStudio.uasset" 859
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/BP_LightStudio.uexp" 860
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Advanced_Lighting.uexp" 861
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Advanced_Lighting.umap" 862
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_QuadPyramid.uasset" 863
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_QuadPyramid.uexp" 864
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Cube.uasset" 865
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Shapes/Shape_Cube.uexp" 866
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Frame_N.uasset" 867
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Frame_N.uexp" 868
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Frame_N.ubulk" 869
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Frame_M.uasset" 870
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Frame_M.uexp" 871
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Frame_M.ubulk" 872
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Frame.uasset" 873
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Frame.uexp" 874
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_WindowFrame.uasset" 875
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_WindowFrame.uexp" 876
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_TableRound_N.uasset" 877
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_TableRound_N.uexp" 878
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_TableRound_N.ubulk" 879
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_TableRound_M.uasset" 880
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_TableRound_M.uexp" 881
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_TableRound_M.ubulk" 882
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_TableRound.uasset" 883
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_TableRound.uexp" 884
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_TableRound.uasset" 885
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_TableRound.uexp" 886
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Statue_M.uasset" 887
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Statue_M.uexp" 888
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Statue_M.ubulk" 889
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Statue_N.uasset" 890
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Statue_N.uexp" 891
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Statue_N.ubulk" 892
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Statue.uasset" 893
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_Statue.uexp" 894
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_StatueGlass.uasset" 895
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/Materials/M_StatueGlass.uexp" 896
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Statue.uasset" 897
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Statue.uexp" 898
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_PillarFrame300.uasset" 899
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_PillarFrame300.uexp" 900
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_PillarFrame.uasset" 901
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_PillarFrame.uexp" 902
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_GlassWindow.uasset" 903
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_GlassWindow.uexp" 904
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_DoorFrame.uasset" 905
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_DoorFrame.uexp" 906
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_CornerFrame.uasset" 907
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_CornerFrame.uexp" 908
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Chair.uasset" 909
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Chair.uexp" 910
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/MaterialSphere.uasset" 911
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/MaterialSphere.uexp" 912
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Dust_Particle_D.uasset" 913
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Dust_Particle_D.uexp" 914
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Dust_Particle_D.ubulk" 915
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 916
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 917
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Ambient_Dust.uasset" 918
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Ambient_Dust.uexp" 919
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Music01.uasset" 920
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Music01.uexp" 921
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Music01.ubulk" 922
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Music_Cue.uasset" 923
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Music_Cue.uexp" 924
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Wind05.uasset" 925
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Wind05.uexp" 926
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Wind05.ubulk" 927
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Birds01.uasset" 928
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Birds01.uexp" 929
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Birds01.ubulk" 930
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Wind06.uasset" 931
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Wind06.uexp" 932
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Wind06.ubulk" 933
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Background_Cue.uasset" 934
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Starter_Background_Cue.uexp" 935
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Collapse02.uasset" 936
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Collapse02.uexp" 937
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Collapse02.ubulk" 938
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Collapse01.uasset" 939
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Collapse01.uexp" 940
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Collapse01.ubulk" 941
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Collapse_Cue.uasset" 942
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Collapse_Cue.uexp" 943
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_Window_400x300.uasset" 944
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_Window_400x300.uexp" 945
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_Door_400x300.uasset" 946
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_Door_400x300.uexp" 947
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_400x200.uasset" 948
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Wall_400x200.uexp" 949
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Floor_400x400.uasset" 950
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Architecture/Floor_400x400.uexp" 951
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Pine_N.uasset" 952
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Pine_N.uexp" 953
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Pine_N.ubulk" 954
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Pine_D.uasset" 955
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Pine_D.uexp" 956
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Pine_D.ubulk" 957
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Perlin_Noise_M.uasset" 958
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Perlin_Noise_M.uexp" 959
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 960
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Pine.uasset" 961
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Pine.uexp" 962
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Oak_N.uasset" 963
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Oak_N.uexp" 964
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Oak_N.ubulk" 965
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Oak_D.uasset" 966
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Oak_D.uexp" 967
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Oak_D.ubulk" 968
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Oak.uasset" 969
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Oak.uexp" 970
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 971
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 972
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 973
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 974
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 975
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 976
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 977
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 978
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 979
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 980
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 981
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 982
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 983
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 984
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 985
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Water_N.uasset" 986
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Water_N.uexp" 987
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Water_N.ubulk" 988
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Water_M.uasset" 989
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Water_M.uexp" 990
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Water_M.ubulk" 991
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Water_Ocean.uasset" 992
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Water_Ocean.uexp" 993
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Water_Lake.uasset" 994
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Water_Lake.uexp" 995
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Panel_M.uasset" 996
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Panel_M.uexp" 997
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Panel_M.ubulk" 998
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Steel_D.uasset" 999
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Steel_D.uexp" 1000
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Steel_D.ubulk" 1001
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Panel_N.uasset" 1002
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Panel_N.uexp" 1003
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Panel_N.ubulk" 1004
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Tech_Panel.uasset" 1005
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Tech_Panel.uexp" 1006
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1007
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 1008
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 1009
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1010
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 1011
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 1012
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1013
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 1014
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1015
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 1016
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Dot_M.uasset" 1017
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Dot_M.uexp" 1018
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1019
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Dot_N.uasset" 1020
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Dot_N.uexp" 1021
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1022
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Single_Tile_N.uasset" 1023
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Single_Tile_N.uexp" 1024
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Single_Tile_N.ubulk" 1025
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Checker_Noise_M.uasset" 1026
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Checker_Noise_M.uexp" 1027
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Checker_Noise_M.ubulk" 1028
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1029
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1030
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Slate_N.uasset" 1031
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Slate_N.uexp" 1032
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1033
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Slate_D.uasset" 1034
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Slate_D.uexp" 1035
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1036
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Rock_Slate.uasset" 1037
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Rock_Slate.uexp" 1038
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1039
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1040
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1041
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1042
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1043
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1044
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Rock_Sandstone.uasset" 1045
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Rock_Sandstone.uexp" 1046
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1047
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1048
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1049
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1050
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1051
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1052
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1053
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1054
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Rock_Basalt.uasset" 1055
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Rock_Basalt.uexp" 1056
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Steel_N.uasset" 1057
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Steel_N.uexp" 1058
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1059
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Steel.uasset" 1060
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Steel.uexp" 1061
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Rust_D.uasset" 1062
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Rust_D.uexp" 1063
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1064
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Rust_N.uasset" 1065
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Rust_N.uexp" 1066
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1067
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Rust.uasset" 1068
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Rust.uexp" 1069
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Gold_D.uasset" 1070
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Gold_D.uexp" 1071
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1072
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Gold.uasset" 1073
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Gold.uexp" 1074
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Copper_D.uasset" 1075
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Copper_D.uexp" 1076
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Metal_Copper_D.ubulk" 1077
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Copper.uasset" 1078
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Copper.uexp" 1079
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Chrome.uasset" 1080
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Chrome.uexp" 1081
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1082
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 1083
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_ground_Moss_D.uasset" 1084
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_ground_Moss_D.uexp" 1085
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_ground_Moss_D.ubulk" 1086
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Moss_N.uasset" 1087
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Moss_N.uexp" 1088
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1089
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Ground_Moss.uasset" 1090
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Ground_Moss.uexp" 1091
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1092
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1093
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1094
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1095
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1096
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1097
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Ground_Gravel.uasset" 1098
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Ground_Gravel.uexp" 1099
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Grass_N.uasset" 1100
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Grass_N.uexp" 1101
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1102
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Grass_D.uasset" 1103
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Grass_D.uexp" 1104
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1105
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Ground_Grass.uasset" 1106
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Ground_Grass.uexp" 1107
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1108
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1109
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1110
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1111
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1112
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1113
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1114
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1115
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1116
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1117
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1118
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1119
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Concrete_Tiles.uasset" 1120
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Concrete_Tiles.uexp" 1121
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1122
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1123
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1124
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1125
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1126
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1127
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Concrete_Poured.uasset" 1128
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Concrete_Poured.uexp" 1129
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1130
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1131
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1132
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Concrete_Grime.uasset" 1133
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Concrete_Grime.uexp" 1134
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1135
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1136
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1137
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Gradinet_01.uasset" 1138
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Gradinet_01.uexp" 1139
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Gradinet_01.ubulk" 1140
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1141
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1142
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1143
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1144
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1145
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1146
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1147
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1148
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1149
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1150
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1151
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1152
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1153
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1154
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1155
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1156
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1157
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1158
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1159
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1160
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1161
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1162
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1163
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1164
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1165
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1166
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1167
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1168
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1169
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1170
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1171
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1172
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1173
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1174
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1175
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1176
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1177
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1178
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1179
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1180
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1181
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1182
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1183
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1184
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1185
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1186
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1187
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1188
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1189
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1190
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1191
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1192
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1193
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1194
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1195
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1196
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1197
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1198
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1199
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1200
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1201
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1202
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1203
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1204
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1205
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1206
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1207
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1208
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1209
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1210
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1211
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1212
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Clay_New.uasset" 1213
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Brick_Clay_New.uexp" 1214
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1216
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1217
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1218
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/StarterMap_BuiltData.uasset" 1219
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/StarterMap_BuiltData.uexp" 1220
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1221
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Lamp_Wall.uasset" 1222
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Props/SM_Lamp_Wall.uexp" 1223
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1224
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1225
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1226
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1227
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1228
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1229
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1230
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1231
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1232
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1233
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Concrete_Panels.uasset" 1234
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Materials/M_Concrete_Panels.uexp" 1235
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Steam_Lit.uasset" 1236
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Steam_Lit.uexp" 1237
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Steam01.uasset" 1238
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Steam01.uexp" 1239
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Steam01.ubulk" 1240
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Steam01_Cue.uasset" 1241
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Steam01_Cue.uexp" 1242
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1243
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1244
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Spark_Core.uasset" 1245
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Spark_Core.uexp" 1246
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Spark_Core.ubulk" 1247
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Spark.uasset" 1248
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Spark.uexp" 1249
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1250
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1251
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Sparks.uasset" 1252
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Sparks.uexp" 1253
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire_Sparks01.uasset" 1254
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire_Sparks01.uexp" 1255
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire_Sparks01.ubulk" 1256
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1257
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1258
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1259
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1260
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Smoke.uasset" 1261
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Smoke.uexp" 1262
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Smoke01.uasset" 1263
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Smoke01.uexp" 1264
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Smoke01.ubulk" 1265
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Smoke01_Cue.uasset" 1266
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Smoke01_Cue.uexp" 1267
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1268
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1269
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1270
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1271
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Fire_SubUV.uasset" 1272
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Fire_SubUV.uexp" 1273
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Fire_SubUV.ubulk" 1274
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1275
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1276
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1277
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1278
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1279
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Fire.uasset" 1280
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Particles/P_Fire.uexp" 1281
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire01.uasset" 1282
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire01.uexp" 1283
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire01.ubulk" 1284
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire01_Cue.uasset" 1285
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Audio/Fire01_Cue.uexp" 1286
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1287
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1288
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/StarterMap.uexp" 1289
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/StarterMap.umap" 1290
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1291
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 1292
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 1293
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Minimal_Default.uexp" 1294
+"/Users/tatanalokteva/Documents/Unreal Projects/GOLITSYNAT_/Content/Download/StarterContent/Maps/Minimal_Default.umap" 1295
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1296
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1297
+"../../../Engine/Content/Maps/Entry.uexp" 1298
+"../../../Engine/Content/Maps/Entry.umap" 1299
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1300
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uexp" 1301
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.ubulk" 1302
+"../../../Engine/Content/Maps/Templates/Template_Default.uexp" 1303
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1304
